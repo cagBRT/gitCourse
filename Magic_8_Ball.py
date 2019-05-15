@@ -38,7 +38,7 @@ while ans:
         
     elif answers == 8:
         print "My sources say no"
-     
+    #added this answer 
     elif answers == 9:
        print "You need to get a life!"
     
