@@ -7,7 +7,7 @@ ans = True
 while ans:
     question = raw_input("Ask the magic 8 ball a question: (press enter to quit) ")
     
-    answers = random.randint(1,9)
+    answers = random.randint(1,10)
     
     if question == "":
         sys.exit()
@@ -38,7 +38,10 @@ while ans:
         
     elif answers == 8:
         print "My sources say no"
+   
     #added this answer 
     elif answers == 9:
-       print "You need to get a life!"
-    
+       print "You need to get a life and figure it out yourself!"
+
+    elif answers == 10:
+       print "I am sorry, that question is dumb"
