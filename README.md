@@ -1,2 +1,2 @@
 # gitCourse
-A short course to teach how to use Git. 
+A short course on using Git. 
