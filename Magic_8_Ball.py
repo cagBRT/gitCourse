@@ -4,7 +4,7 @@ import random
 
 ans = True
 
-#me again
+#after lunch
 
 while ans:
     question = raw_input("Ask the magic 8 ball a question: (press enter to quit) ")
